@@ -4,7 +4,7 @@ Dataset and methodology for US exonerations 2015-2025
 - This project analyzes exoneration cases in the U.S. between 2015 and 2025 using data from the National Registry of Exonerations. 
 - The purpose is to examine how exonerations are distributed across states, how they have changed over time, and how many years exonerees lost before their release.
 - The findings show that a small number of states accounted for a large share of cases.
-- This matters because exonerations show how long it can take for mistakes in the criminal justice system to be corrected and how that is distributed across states.
+- This matters because exonerations show how long it can take for mistakes in the criminal justice system to be corrected, how that is distributed across states, and the human impact it has.
 ## Data Sources: 
 - The primary data source is the National Registry of Exonerations.
 - It includes all known exonerations in the U.S., filtered to include only cases where both the conviction year and exoneration year fell between 2015 and 2025.
